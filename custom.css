@@ -1,0 +1,24 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+nav {
+    margin-bottom: 100px;
+}
+.categories {
+    margin-top: 100px;
+}
+.shoes {
+    margin-top: 100px;
+}
+.hero-section{
+    background-color: #FEEAE9;
+    height: auto;
+}
+.orange-bg{
+    margin-top: 100px;
+    height: 350px;
+    background-color: antiquewhite;
+}
+footer {
+    margin: 100px 0;
+}
